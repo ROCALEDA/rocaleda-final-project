@@ -18,7 +18,7 @@ class CandidateRepository:
                     for value in values
                 )
                 response = await client.get(
-                    f"http://{self.candidates_host}/candidate?{query_string}",
+                    f"https://{self.candidates_host}/candidate?{query_string}",
                 )
                 return response.json()
 
