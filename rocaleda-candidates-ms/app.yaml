@@ -9,7 +9,8 @@ instance_class: F2
 
 env_variables:
     DB_URL: "driver://user:pass@publicip:5432/databasename"
-    #DB_URL: "driver://user:password@privateip:3306/databasename"
+    #DB_URL: "driver://user:password@privateip:5432/databasename"
+    # use port 3306 if using 127.0.0.1 tunnel option (not recommended)
 
 #vpc_access_connector:
     #name: projects/PROJECT_ID/locations/REGION/connectors/CONNECTOR_NAME
