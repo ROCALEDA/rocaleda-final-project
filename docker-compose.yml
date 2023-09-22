@@ -5,6 +5,7 @@ services:
     build: ./rocaleda-api-gateway
     environment:
       - CANDIDATES_MS=candidates:8000
+      - POST_MS=jsonplaceholder.typicode.com
     ports:
       - "8000:8000"
   candidates:
