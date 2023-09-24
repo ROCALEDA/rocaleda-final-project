@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Comunicación efectiva",
+        "description": "Capacidad para transmitir y recibir información de manera clara, concisa y persuasiva, tanto de forma verbal como escrita."
+    },
+    {
+        "name": "Trabajo en equipo",
+        "description": "Habilidad para trabajar cooperativamente con otros, respetando puntos de vista diferentes y contribuyendo al logro de objetivos comunes."
+    },
+    {
+        "name": "Resolución de problemas",
+        "description": "Habilidad para identificar desafíos y encontrar soluciones innovadoras y eficientes."
+    },
+    {
+        "name": "Adaptabilidad",
+        "description": "Capacidad para manejar y ajustarse a cambios en el entorno y en las prioridades."
+    },
+    {
+        "name": "Gestión del tiempo",
+        "description": "Habilidad para priorizar tareas, organizar el trabajo y cumplir con los plazos establecidos."
+    },
+    {
+        "name": "Pensamiento crítico",
+        "description": "Capacidad para analizar situaciones desde diferentes perspectivas y tomar decisiones informadas."
+    },
+    {
+        "name": "Aprendizaje continuo",
+        "description": "Disposición y habilidad para adquirir nuevos conocimientos y habilidades de forma proactiva."
+    },
+    {
+        "name": "Empatía",
+        "description": "Capacidad para comprender y conectar con las emociones y perspectivas de los demás."
+    },
+    {
+        "name": "Liderazgo",
+        "description": "Habilidad para inspirar, motivar y guiar a otros hacia un objetivo común."
+    },
+    {
+        "name": "Toma de decisiones",
+        "description": "Capacidad para tomar decisiones de manera oportuna basadas en la información disponible y considerando las consecuencias."
+    },
+    {
+        "name": "Inteligencia emocional",
+        "description": "Habilidad para reconocer, entender y gestionar las propias emociones, así como las de los demás."
+    },
+    {
+        "name": "Ética de trabajo",
+        "description": "Compromiso con los valores, la integridad y la diligencia en las responsabilidades laborales."
+    }
+]
