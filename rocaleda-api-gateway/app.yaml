@@ -10,7 +10,7 @@ instance_class: F2
 env_variables:
     CANDIDATES_MS: candidates
 
-vpc_access_connector:
-    name: projects/GOOGLE_CLOUD_PROJECT/locations/us-central1/connectors/app-engine-private
-    egress_setting: all-traffic
+#vpc_access_connector:
+    #name: projects/GOOGLE_CLOUD_PROJECT/locations/us-central1/connectors/VPC-PRIVATE-MACHINE
+    #egress_setting: all-traffic
     #name: projects/PROJECT_ID/locations/REGION/connectors/CONNECTOR_NAME
