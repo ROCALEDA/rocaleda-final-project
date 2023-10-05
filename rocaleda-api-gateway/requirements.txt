@@ -6,6 +6,7 @@ dnspython==2.4.2
 email-validator==2.0.0.post2
 fastapi==0.103.1
 h11==0.14.0
+gunicorn
 httpcore==0.18.0
 httptools==0.6.0
 httpx==0.25.0
